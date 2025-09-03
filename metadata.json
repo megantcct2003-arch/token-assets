@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "description": "Test stablecoin mint (non-Circle).",
+  "image": "https://raw.githubusercontent.com/meganetcct2003-arch/token-assets/main/logo.png.png",
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://x.com/example",
+    "discord": "https://discord.gg/example"
+  }
+}
